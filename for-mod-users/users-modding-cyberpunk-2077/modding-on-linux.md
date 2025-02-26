@@ -174,6 +174,10 @@ Make sure to be on the last version of protontricks. If that does not work, try 
 You can check protontricks' [github page](https://github.com/Matoking/protontricks/issues). If there is anything seriously broken, you will find something there.
 {% endhint %}
 
+#### "Invalid magic number"
+
+uninstall/remove the current protontrick. Download [beta protontrick](https://monroeworld.com/steamdeck/proton.txt).run those command to download
+
 #### Ask for help
 
 You can find us on the [modding discord](https://discord.gg/redmodding) in `#cet-troubleshooting` or `#red4ext-support`. Beware: If it turns out to be a typo in your launch options, there will be snark. ;)
